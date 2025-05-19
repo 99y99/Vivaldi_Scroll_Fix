@@ -28,11 +28,6 @@ Add the Userscript:
 
 Verify the Fix:Visit a website where you previously experienced the scrolling issue. The page should now be fully scrollable.
 
-
-Optional Features
-
-Error Suppression:The script includes an optional section that hides the 'browsing-topics' error message in the console. If you prefer to keep this error visible for debugging or other purposes, you can comment out or remove the relevant code block (lines 23-31 in the script).
-
 Notes
 
 Compatibility:The script is designed to work on all websites (*://*/*). If it causes unintended behavior on specific sites, you can modify the @match directive to target only the problematic sites.
